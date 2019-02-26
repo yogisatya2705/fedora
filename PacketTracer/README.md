@@ -19,11 +19,7 @@ sudo dnf install qt5-qtwebkit qt5-qtsvg qt5-qtscript libpng12 git
 
 ### Solusi
 ```
-<<<<<<< HEAD
 wget -c https://github.com/yogisatya2705/fedora/raw/master/PacketTracer/code.sh
-=======
-wget -c
->>>>>>> master
 chmod +x code.sh
 ./code.sh
 ```
