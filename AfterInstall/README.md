@@ -10,4 +10,4 @@
 
 ##### TIPS
 Scan Wifi :
-```nmcli -f in-use,ssid,freq,bssid,signal,bars  dev wifi```
+```nmcli -f in-use,ssid,freq,chan,bssid,signal,bars  dev wifi```
